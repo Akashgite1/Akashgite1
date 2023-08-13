@@ -1,8 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Akash gite</h1>
-<h3 align="center">software engineer & web application developer</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
-
+<h3 align="center">Software Engineer & Web Application Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgite1&label=Profile%20views&color=0e75b6&style=flat" alt="akashgite1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@akash_gite0" target="blank"><img src="https://img.shields.io/twitter/follow/@akash_gite0?logo=twitter&style=for-the-badge" alt="@akash_gite0" /></a> </p>
@@ -30,19 +29,5 @@ img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashgite1&show_icons=true&locale=en" alt="akashgite1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashgite1&" alt="akashgite1" /></p>### Hi there 👋
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashgite1&" alt="akashgite1" /></p>
 
-<!--
-**Akashgite1/Akashgite1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
