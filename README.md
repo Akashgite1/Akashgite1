@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/akash_gite0" target="blank"><img src="https://img.shields.io/twitter/follow/akash_gite0?logo=twitter&style=for-the-badge" alt="akash_gite0" /></a> </p>
 
-- 🔭 I’m currently working on **university login software**
-
-- 🌱 I’m currently learning **android development**
+- 🌱 I’m currently learning
 
 - 📫 How to reach me **akashgitee550@gmail.com**
 
