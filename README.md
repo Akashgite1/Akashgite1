@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
-<h1 align="center">Hi 👋, I'm Akash gite</h1>
+<h1 align="center">Hi 👋, I'm Akash Gite</h1>
 <h3 align="center">Software Engineer & Web Application Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
